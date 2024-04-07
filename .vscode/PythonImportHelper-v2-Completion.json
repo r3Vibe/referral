@@ -1,0 +1,847 @@
+[
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "init_beanie",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "Indexed",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "isExtraImport": true,
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "isExtraImport": true,
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "create_ref_code",
+        "importPath": "app.utils.referral_generator",
+        "description": "app.utils.referral_generator",
+        "isExtraImport": true,
+        "detail": "app.utils.referral_generator",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSchema",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "OperationFailure",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateKeyError",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "importPath": "app.security",
+        "description": "app.security",
+        "isExtraImport": true,
+        "detail": "app.security",
+        "documentation": {}
+    },
+    {
+        "label": "make_token",
+        "importPath": "app.security.jwt",
+        "description": "app.security.jwt",
+        "isExtraImport": true,
+        "detail": "app.security.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "importPath": "app.security.jwt",
+        "description": "app.security.jwt",
+        "isExtraImport": true,
+        "detail": "app.security.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_from_token",
+        "importPath": "app.security.get_user",
+        "description": "app.security.get_user",
+        "isExtraImport": true,
+        "detail": "app.security.get_user",
+        "documentation": {}
+    },
+    {
+        "label": "In",
+        "importPath": "beanie.operators",
+        "description": "beanie.operators",
+        "isExtraImport": true,
+        "detail": "beanie.operators",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "importPath": "app.routers.V1.auth",
+        "description": "app.routers.V1.auth",
+        "isExtraImport": true,
+        "detail": "app.routers.V1.auth",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "importPath": "app.routers.V1.user",
+        "description": "app.routers.V1.user",
+        "isExtraImport": true,
+        "detail": "app.routers.V1.user",
+        "documentation": {}
+    },
+    {
+        "label": "v1_routers",
+        "importPath": "app.routers.V1",
+        "description": "app.routers.V1",
+        "isExtraImport": true,
+        "detail": "app.routers.V1",
+        "documentation": {}
+    },
+    {
+        "label": "JwtBearer",
+        "importPath": "app.security.jwt_bearer",
+        "description": "app.security.jwt_bearer",
+        "isExtraImport": true,
+        "detail": "app.security.jwt_bearer",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "routes",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    \"\"\"get the data from the .env file\"\"\"\n    DB_URL: str = Field(validation_alias=\"DB_URL\")\n    DB_NAME: str = Field(validation_alias=\"DB_NAME\")\n    SECRET: str = Field(validation_alias=\"SECRET\")\n    class Config:\n        env_file = \".env\"\n\"\"\" initialize the settings \"\"\"\nsettings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "class Users(Document):\n    id: UUID = Field(default_factory=uuid4)\n    name: str\n    email: Annotated[str, Indexed(unique=True)]\n    password: str\n    referral_code: str = Field(default_factory=create_ref_code)\n    points: int = Field(default=0)\n    referral_signup: List[UUID] = Field(default=[])\n    createdAt: datetime = Field(default_factory=datetime.now)\n    class Settings:",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.V1.auth.auth_router",
+        "description": "app.routers.V1.auth.auth_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Authentication\"])\n@router.post(\n    \"/register\",\n    summary=\"Create New Users Given Their Details\",\n    status_code=status.HTTP_201_CREATED,\n    response_model=UserRegistrationResponse,\n    responses={\n        400: {\n            \"content\": {\n                \"application/json\": {",
+        "detail": "app.routers.V1.auth.auth_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.V1.user.user_router",
+        "description": "app.routers.V1.user.user_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/user\", tags=[\"User\"])\n@router.get(\n    \"/details\",\n    summary=\"Get User Details\",\n    status_code=status.HTTP_200_OK,\n    response_model=UserDetails,\n)\nasync def get_user_info(user: Annotated[Users, Depends(get_user_from_token)]):\n    \"\"\"View the user information of the logged in user\"\"\"\n    return user",
+        "detail": "app.routers.V1.user.user_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.V1.v1_routers",
+        "description": "app.routers.V1.v1_routers",
+        "peekOfCode": "router = APIRouter()\n\"\"\" include auth routes \"\"\"\nrouter.include_router(auth_router.router)\nrouter.include_router(user_router.router)",
+        "detail": "app.routers.V1.v1_routers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.routes",
+        "description": "app.routers.routes",
+        "peekOfCode": "router = APIRouter()\n\"\"\" include the v1 routes here \"\"\"\nrouter.include_router(v1_routers.router)",
+        "detail": "app.routers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserSchema(BaseModel):\n    name: str = Body(title=\"Name of the user\")\n    email: EmailStr = Body(title=\"Valid Email Address\")\n    password: str = Body(title=\"Secure Password\")\n    referral_code: Optional[str] = Body(\n        default=None,\n        title=\"Referral Code Given By Someone\",\n    )\nclass UserRegistrationResponse(BaseModel):\n    id: UUID",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationResponse",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserRegistrationResponse(BaseModel):\n    id: UUID\n    message: str = \"User Registration Successful\"\nclass LoginSchema(BaseModel):\n    email: EmailStr = Body(title=\"Email Address\")\n    password: str = Body(title=\"Password\")\nclass UserDetails(BaseModel):\n    name: str\n    email: EmailStr\n    referral_code: str",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSchema",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class LoginSchema(BaseModel):\n    email: EmailStr = Body(title=\"Email Address\")\n    password: str = Body(title=\"Password\")\nclass UserDetails(BaseModel):\n    name: str\n    email: EmailStr\n    referral_code: str\n    createdAt: datetime",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetails",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserDetails(BaseModel):\n    name: str\n    email: EmailStr\n    referral_code: str\n    createdAt: datetime",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "make_token",
+        "kind": 2,
+        "importPath": "app.security.jwt",
+        "description": "app.security.jwt",
+        "peekOfCode": "def make_token(id: str) -> str:\n    \"\"\"create new jwt token and return it\"\"\"\n    return jwt.encode(\n        {\"id\": id, \"expiry\": time.time() + 600}, settings.SECRET, \"HS256\")\ndef verify_token(tok: str) -> bool:\n    \"\"\"verify the given token for validity\"\"\"\n    try:\n        data = jwt.decode(tok, settings.SECRET, algorithms=[\"HS256\"])\n        return data if data[\"expiry\"] >= time.time() else None\n    except JWTError:",
+        "detail": "app.security.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "app.security.jwt",
+        "description": "app.security.jwt",
+        "peekOfCode": "def verify_token(tok: str) -> bool:\n    \"\"\"verify the given token for validity\"\"\"\n    try:\n        data = jwt.decode(tok, settings.SECRET, algorithms=[\"HS256\"])\n        return data if data[\"expiry\"] >= time.time() else None\n    except JWTError:\n        return None",
+        "detail": "app.security.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "JwtBearer",
+        "kind": 6,
+        "importPath": "app.security.jwt_bearer",
+        "description": "app.security.jwt_bearer",
+        "peekOfCode": "class JwtBearer(HTTPBearer):\n    \"\"\"access the bearer token and validate it\"\"\"\n    def __init__(self, auto_error: bool = True):\n        super(JwtBearer, self).__init__(auto_error=auto_error)\n    async def __call__(self, request: Request):\n        credentials: HTTPAuthorizationCredentials = await super(\n            JwtBearer, self\n        ).__call__(request)\n        if credentials:\n            if not credentials.scheme == \"Bearer\":",
+        "detail": "app.security.jwt_bearer",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "app.security.password",
+        "description": "app.security.password",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    \"\"\"hash and return the given password string\"\"\"\n    return pwd_context.hash(password)\ndef verify_password(password: str, hashed: str) -> bool:\n    \"\"\"check given password against the password hash\"\"\"\n    return pwd_context.verify(password, hashed)",
+        "detail": "app.security.password",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.security.password",
+        "description": "app.security.password",
+        "peekOfCode": "def verify_password(password: str, hashed: str) -> bool:\n    \"\"\"check given password against the password hash\"\"\"\n    return pwd_context.verify(password, hashed)",
+        "detail": "app.security.password",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.security.password",
+        "description": "app.security.password",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    \"\"\"hash and return the given password string\"\"\"\n    return pwd_context.hash(password)\ndef verify_password(password: str, hashed: str) -> bool:\n    \"\"\"check given password against the password hash\"\"\"\n    return pwd_context.verify(password, hashed)",
+        "detail": "app.security.password",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.utils.logger",
+        "description": "app.utils.logger",
+        "peekOfCode": "logger = logging.getLogger()\n# create format\nformat = logging.Formatter(fmt=\"%(levelname)s: %(asctime)s - %(message)s\")\n# create handlers\nstream_handler = logging.StreamHandler(sys.stdout)\nfile_handler = logging.FileHandler(\"app.log\")\n# set formatter\nstream_handler.setFormatter(format)\nfile_handler.setFormatter(format)\n# add the handlers to the logger",
+        "detail": "app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "format",
+        "kind": 5,
+        "importPath": "app.utils.logger",
+        "description": "app.utils.logger",
+        "peekOfCode": "format = logging.Formatter(fmt=\"%(levelname)s: %(asctime)s - %(message)s\")\n# create handlers\nstream_handler = logging.StreamHandler(sys.stdout)\nfile_handler = logging.FileHandler(\"app.log\")\n# set formatter\nstream_handler.setFormatter(format)\nfile_handler.setFormatter(format)\n# add the handlers to the logger\nlogger.handlers = [stream_handler, file_handler]\n# set level",
+        "detail": "app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "stream_handler",
+        "kind": 5,
+        "importPath": "app.utils.logger",
+        "description": "app.utils.logger",
+        "peekOfCode": "stream_handler = logging.StreamHandler(sys.stdout)\nfile_handler = logging.FileHandler(\"app.log\")\n# set formatter\nstream_handler.setFormatter(format)\nfile_handler.setFormatter(format)\n# add the handlers to the logger\nlogger.handlers = [stream_handler, file_handler]\n# set level\nlogger.setLevel(logging.INFO)",
+        "detail": "app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "file_handler",
+        "kind": 5,
+        "importPath": "app.utils.logger",
+        "description": "app.utils.logger",
+        "peekOfCode": "file_handler = logging.FileHandler(\"app.log\")\n# set formatter\nstream_handler.setFormatter(format)\nfile_handler.setFormatter(format)\n# add the handlers to the logger\nlogger.handlers = [stream_handler, file_handler]\n# set level\nlogger.setLevel(logging.INFO)",
+        "detail": "app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger.handlers",
+        "kind": 5,
+        "importPath": "app.utils.logger",
+        "description": "app.utils.logger",
+        "peekOfCode": "logger.handlers = [stream_handler, file_handler]\n# set level\nlogger.setLevel(logging.INFO)",
+        "detail": "app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "create_ref_code",
+        "kind": 2,
+        "importPath": "app.utils.referral_generator",
+        "description": "app.utils.referral_generator",
+        "peekOfCode": "def create_ref_code() -> str:\n    \"\"\"\n    use this function to generate random referal code for users\n    \"\"\"\n    code = uuid4().hex\n    return code",
+        "detail": "app.utils.referral_generator",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Boilerplate\",\n    summary=\"FastApi boilerplate for all project\",\n    description=\"\"\"\n    FastApi boilerplate that will include basic structure and authentication\n    \"\"\",\n    version=\"0.0.5\",\n    servers=[\n        {\"url\": \"http://127.0.0.1:8000/api/v1\", \"description\": \"Local Server\"}\n    ],",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "origins = [\n    \"http://localhost\",\n    \"http://localhost:8080\",\n    \"http://localhost:3000\",\n    \"http://localhost:5173\",\n    \"http://127.0.0.1\",\n    \"http://127.0.0.1:8080\",\n    \"http://127.0.0.1:3000\",\n    \"http://127.0.0.1:5173\",\n]",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "templates = Jinja2Templates(directory=\"app/templates\")\n@app.get(\"/\", response_class=HTMLResponse, include_in_schema=False)\nasync def root(request: Request):\n    \"\"\"set the root to show a html welcome page\"\"\"\n    return templates.TemplateResponse(request=request, name=\"index.html\")\n# include all the other api endpoints\napp.include_router(routes.router)",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
