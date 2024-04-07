@@ -34,13 +34,13 @@ used for database communications.
 ## Usage
 
 - Update .env
-    ``` 
-        DB_URL=
-        DB_NAME=
-        SECRET= 
-    ```
+  ```
+      DB_URL= local database url or atlas url
+      DB_NAME= database name
+      SECRET=  jwt secret
+  ```
 - Run server
-    `uvicorn app.main:app --reload`
+  `uvicorn app.main:app --reload`
 
 - Access Url
-    `http://127.0.0.1:8000/docs`
+  `http://127.0.0.1:8000/docs`
